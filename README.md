@@ -12,9 +12,6 @@ This repository will disappear in late June 2018.
 
 ## :warning: Maven Repository URL Changed
 
-The Maven repository has been moved to <http://lvillani.github.io/android-cropimage/>. Please see
-the updated documentation and the [example](./CropImageRepo) for more details.
+The Maven repository has been moved to <http://lvillani.github.io/android-cropimage/>.
 
 The old repository URL may become unavailable starting January 2018.
-
---------------------------------------------------------------------------------
